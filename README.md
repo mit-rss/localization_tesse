@@ -2,8 +2,9 @@
 |---------------|----------------------------------------------------------------------------|
 | Briefing (8 min presentation + 3 min Q&A) (slides on [github pages](https://github.mit.edu/rss/website2021))  | Wednesday, April 14th at 1:00PM EST |
 | Report (on [team github pages website](https://github.mit.edu/rss/website2021)) | Friday, April 16th at 11:59PM EST |
+| Gradescope autograder submissions | Friday, April 16th at 11:59PM EST |
 | Pushed code | Friday, April 16th at 11:59PM EST |
-| [Team Member Assessment](https://docs.google.com/forms/d/e/1FAIpQLSeH7moDd1OhA5nKpBgstc7plhaBMFm3L1H99joylZSgegmQYw/viewform?usp=sf_link)  | Friday, April 16th at 11:59PM EST |
+| [Team Member Assessment](https://docs.google.com/forms/d/e/1FAIpQLSeH7moDd1OhA5nKpBgstc7plhaBMFm3L1H99joylZSgegmQYw/viewform?usp=sf_link) | Friday, April 16th at 11:59PM EST |
 
 **TODO double check due dates**
 
