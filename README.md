@@ -32,21 +32,20 @@ Parts A, B, and C are required and will be graded out of 10 points. This grade o
 
 ### Part A: Writing assignment (3 points) - **INDIVIDUAL EFFORT**, *REQUIRED*
 
-Submit your answers **INDIVIDUALLY** to the writing assignment on **gradescope**, preferably LaTeXed. You must show work (derivations, formulas used, etc.) to receive full credit. You may collaborate on problems but you cannot simply share answers. You must write up your solutions independently.
-
-The 3 points of part A will be assigned based on the submitted written exercises.
+Submit your answers **individually** to the writing assignment on gradescope, preferably LaTeXed. You must show work (derivations, formulas used, etc.) to receive full credit. You may collaborate on problems but you cannot simply share answers. You must write up your solutions independently. The 3 points of part A will be assigned based on the submitted written exercises:
 - 1 point for part (i) in question 1
 - 1 point for part (ii) in question 1
 - 1 point for question 2
 
-**TODO: make sure gradescope assignment names match**
-Work on the questions and submit your numeric answers along with your justifications to the Gradescope assignment **Lab 5 Part A: Individual Submission**. You may check your numeric results by putting your answers in `solutions_go_here.py` and uploading to the Gradescope autograder **Lab 5 Part A: OPTIONAL**, but your grade will be based only on your explanations and answers submitted for the written portion. Just writing the final answer will not give total credit, even if correct. These questions will help you understand the algorithm before diving into coding.
+**TODO: make sure gradescope assignment names and point values match!**
+
+Submit your numeric answers along with your justifications to the gradescope assignment **Lab 5 Part A: Individual Submission**. You may check your numeric results by putting your answers in `/autograder/solutions_go_here.py` and uploading to the gradescope autograder **Lab 5 Part A: OPTIONAL**, but your grade will be based only on your explanations and answers submitted for the written portion. Just writing the final answer will not give total credit, even if correct. These questions will help you understand the algorithm before diving into coding.
 
 ### Part B: Programming implementation and autograder (3 points) - **TEAMWORK**, *REQUIRED*
 
 Implement MCL in the simulator. Augment the simulated odometry data with various types of noise and compare how your solution does compared to the ground truth odometry. Run your implementation of MCL on the gradescope autograder. Points will be assigned based on performance as compared to the TA solution in the 2D racecar simulation environment.
 
-You should submit your implementation to the **TODO** assignment on gradescope as a zip of your localization package. See section 5 of part B in the [instructions notebook](README.ipynb) for more details on submission format and how exactly the autograder will evaluate your implementation.
+You should submit your implementation to the **Lab 5 Part B: Localization in Simulation** assignment on gradescope as a zip of your localization package. See section 5 of part B in the [instructions notebook](README.ipynb) for more details on submission format and how exactly the autograder will evaluate your implementation.
 
 **Note that while the autograder will add noise to the odometry when evaluating your solution, you must augment the odometry with your own noise when using the 2D simulation environment, both in order to increase your confidence in your solution and to evaluate your implementation in a realistic environment when providing analysis in your report and briefing.**
 
@@ -76,4 +75,4 @@ Experiment with SLAM by configuring and running Google Cartographer in the simul
 
 ### Part E (1 bonus point) - **INDIVIDUAL EFFORT**, *OPTIONAL EXTRA-CREDIT*
 
-Derive the form of the Bayes' Filter presented in Lecture 10. Submit as a typed PDF uploaded to Gradescope.
+Derive the form of the Bayes' Filter presented in Lecture 10. Submit as a typed PDF uploaded to gradescope.
