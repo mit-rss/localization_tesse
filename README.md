@@ -13,7 +13,7 @@
 
 Determining a robot’s orientation and position in a known environment, also known as localization, is a critical problem in the field of robotics. As is common in robotics, this seemingly simple problem is surprisingly difficult, and remains an active research area. In this lab, you will solve robotic localization by implementing Monte Carlo Localization (aka MCL or particle filter). This is a challenging lab and we'd recommend starting early and moving fast.
 
-This lab consists of a number of modules, some required and some extra credit, some individual and some with your team - for details on submission, grading, and deliverables, see the next section. For more detailed instructions on each module see [this notebook](README.ipynb) (may need to open in Chrome or Firefox to avoid incorrect equation rendering in Safari).
+This lab consists of a number of modules, some required and some extra credit, some individual and some with your team - for details on submission, grading, and deliverables, see the next section. For more detailed instructions on each module see [this notebook](README.ipynb).
 
 <img src="figures/pf.png" width="600">
 
@@ -44,7 +44,9 @@ Work on the questions and submit your numeric answers along with your justificat
 
 ### Part B: Programming implementation and autograder (3 points) - **TEAMWORK**, *REQUIRED*
 
-Implement MCL in the simulator. Augment the simulated odometry data with various types of noise and compare how your solution does compared to the ground truth odometry. Run your implementation of MCL on the gradescope autograder. Points will be assigned based on performance as compared to the TA solution in the 2D racecar simulation environment. See the section 5 of part B in the [instructions notebook](README.ipynb) for more details on how exactly the autograder will evaluate your implementation.
+Implement MCL in the simulator. Augment the simulated odometry data with various types of noise and compare how your solution does compared to the ground truth odometry. Run your implementation of MCL on the gradescope autograder. Points will be assigned based on performance as compared to the TA solution in the 2D racecar simulation environment.
+
+You should submit your implementation to the **TODO** assignment on gradescope as a zip of your localization package. See section 5 of part B in the [instructions notebook](README.ipynb) for more details on submission format and how exactly the autograder will evaluate your implementation.
 
 **Note that while the autograder will add noise to the odometry when evaluating your solution, you must augment the odometry with your own noise when using the 2D simulation environment, both in order to increase your confidence in your solution and to evaluate your implementation in a realistic environment when providing analysis in your report and briefing.**
 
