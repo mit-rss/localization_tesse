@@ -3,10 +3,9 @@
 | Briefing (8 min presentation + 3 min Q&A) (slides on [github pages](https://github.mit.edu/rss/website2021))  | Wednesday, April 14th at 1:00PM EST |
 | Report (on [team github pages website](https://github.mit.edu/rss/website2021)) | Friday, April 16th at 11:59PM EST |
 | Pushed code | Friday, April 16th at 11:59PM EST |
-| [Team Member Assessment](https://docs.google.com/forms/d/e/1FAIpQLScM6T3JsnlFQldhL_fVmAr9FkUILOjbXHM_nYxK280UZwJPww/viewform)  | Friday, April 16th at 11:59PM EST |
+| [Team Member Assessment](https://docs.google.com/forms/d/e/1FAIpQLSeH7moDd1OhA5nKpBgstc7plhaBMFm3L1H99joylZSgegmQYw/viewform?usp=sf_link)  | Friday, April 16th at 11:59PM EST |
 
 **TODO double check due dates**
-**TODO is team member assessment link same for each lab? also check in submission / grading section below**
 
 # Lab 5: Monte Carlo Localization (MCL)
 
@@ -20,7 +19,7 @@ This lab consists of a number of modules, some required and some extra credit, s
 
 ## Submission and Grading
 
-The deliverables for this lab consist of five parts (two of which are optional) for a total of 10 points with 2 possible extra credit points. Parts A and E must be submitted individually, while the rest are teamwork. There will also be a report and briefing for this lab, and each teammate must submit the [team member assessment form](https://docs.google.com/forms/d/e/1FAIpQLScM6T3JsnlFQldhL_fVmAr9FkUILOjbXHM_nYxK280UZwJPww/viewform).
+The deliverables for this lab consist of five parts (two of which are optional) for a total of 10 points with 2 possible extra credit points. Parts A and E must be submitted individually, while the rest are teamwork. There will also be a report and briefing for this lab, and each teammate must submit the [team member assessment form](https://docs.google.com/forms/d/e/1FAIpQLSeH7moDd1OhA5nKpBgstc7plhaBMFm3L1H99joylZSgegmQYw/viewform?usp=sf_link).
 
 **TODO: right weights? add rubric links**
 Parts A, B, and C are required and will be graded out of 10 points. This grade out of 10 points is then combined with the report and briefing grades (each also out of 10 points - see rubrics [here]() and [here]()). The grade for the modules is weighted at 0.4, the report at 0.4, and the briefing at 0.2, for an overall lab 5 grade out of 10 points. *Note that due to the individual nature of parts A and E, overall lab grades may differ across teammates.*
