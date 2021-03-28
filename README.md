@@ -1,6 +1,6 @@
 | Deliverable | Due Date              |
 |---------------|----------------------------------------------------------------------------|
-| Briefing (8 min presentation + 3 min Q&A) (slides due on [github pages](https://github.mit.edu/rss/website2021))  | Wednesday, April 14th at 1:00PM EST |
+| Briefing (8 min presentation + 3 min Q&A) (slides on [github pages](https://github.mit.edu/rss/website2021))  | Wednesday, April 14th at 1:00PM EST |
 | Report (on [team github pages website](https://github.mit.edu/rss/website2021)) | Friday, April 16th at 11:59PM EST |
 | Pushed code | Friday, April 16th at 11:59PM EST |
 | [Team Member Assessment](https://docs.google.com/forms/d/e/1FAIpQLScM6T3JsnlFQldhL_fVmAr9FkUILOjbXHM_nYxK280UZwJPww/viewform)  | Friday, April 16th at 11:59PM EST |
@@ -25,11 +25,11 @@ The deliverables for this lab consist of five parts (two of which are optional) 
 **TODO: right weights? add rubric links**
 Parts A, B, and C are required and will be graded out of 10 points. This grade out of 10 points is then combined with the report and briefing grades (each also out of 10 points - see rubrics [here]() and [here]()). The grade for the modules is weighted at 0.4, the report at 0.4, and the briefing at 0.2, for an overall lab 5 grade out of 10 points. *Note that due to the individual nature of parts A and E, overall lab grades may differ across teammates.*
 
--   **Part A** - (Writing Assignment) Understand the motion and sensor model.
--   **Part B** - (Programming Assignment) Develop and test the particle filter algorithm in 2D racecar simulation environment, upload solution to gradescope for autograder evaluation.
--   **Part C** - (Localization in TESSE) Adapt your solution from part B to work in TESSE and conduct experimental analysis for your report and briefing.
--   **Part D** - (**OPTIONAL: Extra Credit**) From localization to SLAM: configure and run Google Cartographer in the simulator.
--   **Part E** - (**OPTIONAL: Extra Credit**) Derive the Bayes' Filter presented in Lecture 10.
+-   **Part A - (Writing Assignment)** Understand the motion and sensor model.
+-   **Part B - (Programming Assignment)** Develop and test the particle filter algorithm in 2D racecar simulation environment, upload solution to gradescope for autograder evaluation.
+-   **Part C - (Localization in TESSE)** Adapt your solution from part B to work in TESSE and conduct experimental analysis for your report and briefing.
+-   *Part D - (OPTIONAL: Extra Credit)* From localization to SLAM: configure and run Google Cartographer in the simulator.
+-   *Part E - (OPTIONAL: Extra Credit)* Derive the Bayes' Filter presented in Lecture 10.
 
 ### Part A: Writing assignment (3 points) - **INDIVIDUAL EFFORT**, *REQUIRED*
 
@@ -75,4 +75,4 @@ Experiment with SLAM by configuring and running Google Cartographer in the simul
 
 ### Part E (1 bonus point) - **INDIVIDUAL EFFORT**, *OPTIONAL EXTRA-CREDIT*
 
-Derive the form of the Bayes' Filter presented in Lecture 10. Submit as a typed PDF uploaded to Gradescope (1 bonus point).
+Derive the form of the Bayes' Filter presented in Lecture 10. Submit as a typed PDF uploaded to Gradescope.
