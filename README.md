@@ -75,4 +75,4 @@ Experiment with SLAM by configuring and running Google Cartographer in the simul
 
 ### Part E (1 bonus point) - **INDIVIDUAL EFFORT**, *OPTIONAL EXTRA-CREDIT*
 
-Derive the form of the Bayes' Filter presented in Lecture 10. Submit as a typed PDF uploaded to gradescope.
+Derive the form of the Bayes' Filter presented in Lecture 10. Submit as a typed PDF uploaded to the **Lab 5 Part E: OPTIONAL** gradescope assignment.
