@@ -28,12 +28,12 @@ Parts A, B, and C are required and will be graded out of 10 points. This grade o
 -   **Part A - (Writing Assignment)** Understand the motion and sensor model.
 -   **Part B - (Programming Assignment)** Develop and test the particle filter algorithm in 2D racecar simulation environment, upload solution to gradescope for autograder evaluation.
 -   **Part C - (Localization in TESSE)** Adapt your solution from part B to work in TESSE and conduct experimental analysis for your report and briefing.
--   *Part D - (OPTIONAL: Extra Credit)* From localization to SLAM: configure and run Google Cartographer in the simulator.
--   *Part E - (OPTIONAL: Extra Credit)* Derive the Bayes' Filter presented in Lecture 10.
+-   *Part D - (OPTIONAL: Extra Credit) From localization to SLAM: configure and run Google Cartographer in the simulator.*
+-   *Part E - (OPTIONAL: Extra Credit) Derive the Bayes' Filter presented in Lecture 10.*
 
 ### Part A: Writing assignment (3 points) - **INDIVIDUAL EFFORT**, *REQUIRED*
 
-Submit your answers **INDIVIDUALLY** to the writing assignment on **gradescope**, preferably $\LaTeX$ed. You must show work (derivations, formulas used, etc.) to receive full credit. You may collaborate on problems but you cannot simply share answers. You must write up your solutions independently.
+Submit your answers **INDIVIDUALLY** to the writing assignment on **gradescope**, preferably LaTeXed. You must show work (derivations, formulas used, etc.) to receive full credit. You may collaborate on problems but you cannot simply share answers. You must write up your solutions independently.
 
 The 3 points of part A will be assigned based on the submitted written exercises.
 - 1 point for part (i) in question 1
