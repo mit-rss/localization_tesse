@@ -6,6 +6,8 @@
 | Pushed code | Friday, April 16th at 11:59PM EST |
 | [Team Member Assessment](https://docs.google.com/forms/d/e/1FAIpQLSeH7moDd1OhA5nKpBgstc7plhaBMFm3L1H99joylZSgegmQYw/viewform?usp=sf_link) | Friday, April 16th at 11:59PM EST |
 
+**notebook with detailed instructions for each module: [README.ipynb](README.ipynb)**
+
 # Lab 5: Monte Carlo Localization (MCL)
 
 ## Introduction
