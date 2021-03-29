@@ -42,7 +42,7 @@ Submit your answers **individually** to the writing assignment on gradescope, pr
 
 Submit your numeric answers along with your justifications to the gradescope assignment **Lab 5 Part A: Individual Submission**. You may check your numeric results by putting your answers in `/autograder/solutions_go_here.py` and uploading to the gradescope autograder **Lab 5 Part A: OPTIONAL**, but your grade will be based only on your explanations and answers submitted for the written portion. Just writing the final answer will not give total credit, even if correct. These questions will help you understand the algorithm before diving into coding.
 
-### Part B: Programming implementation and autograder (3 points) - **TEAMWORK**, *REQUIRED*
+### Part B: Programming implementation and autograder (4 points) - **TEAMWORK**, *REQUIRED*
 
 Implement MCL in the simulator. Augment the simulated odometry data with various types of noise and compare how your solution does compared to the ground truth odometry. Run your implementation of MCL on the gradescope autograder. Points will be assigned based on performance as compared to the TA solution in the 2D racecar simulation environment.
 
@@ -50,15 +50,14 @@ You should submit your implementation to the **Lab 5 Part B: Localization in Sim
 
 **Note that while the autograder will add noise to the odometry when evaluating your solution, you must augment the odometry with your own noise when using the 2D simulation environment, both in order to increase your confidence in your solution and to evaluate your implementation in a realistic environment when providing analysis in your report and briefing.**
 
-### Part C: Localization in TESSE (4 points) - **TEAMWORK**, *REQUIRED*
+### Part C: Localization in TESSE (3 points) - **TEAMWORK**, *REQUIRED*
 
 For this part you will need to adapt your MCL implementation from part B to work in TESSE, and conduct experimental analysis of your algorithm's performance for your report and briefing. See part C of the [instructions notebook](README.ipynb) for more details on how to adapt your code to run in TESSE.
 
-In your report and briefing, make sure to provide
+In your report and briefing, make sure to provide:
 - Numerical evidence that your algorithm is working in the form of charts / data
     - Convergence rates, cross track error, etc
     - Show how the robust the simulator is in the presence of **noisy odometry** (augmenting `/odom` with noise for 2D simulation environment, `/tesse/odom/noisy` for TESSE), using **ground truth odometry** for comparison (`/odom` for 2D simulation environment, `/tesse/odom` for TESSE)
-
 - An [illustrative video](https://www.youtube.com/watch?v=-c_0hSjgLYw&t=6s) of your particle filter working, overlaying
     - Visualization of inferred position
     - Visualization of the particle distribution
