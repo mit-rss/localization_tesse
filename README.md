@@ -62,7 +62,7 @@ In your report and briefing, make sure to provide:
 
 ### Part D: SLAM with Google Cartographer (1 bonus point) - **TEAMWORK**, *OPTIONAL EXTRA-CREDIT*
 
-Experiment with SLAM by configuring and running Google Cartographer in the simulation evnironment. Include your results in your lab report and presentation.
+Experiment with SLAM by configuring and running Google Cartographer in the simulation environment. Include your results in your lab report and presentation.
 
 - Build a map of the Bldg 31 OR STATA basement using Cartographer (these are the usual provided maps)
 - Localize using Cartographer
