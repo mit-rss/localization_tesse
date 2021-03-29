@@ -6,8 +6,6 @@
 | Pushed code | Friday, April 16th at 11:59PM EST |
 | [Team Member Assessment](https://docs.google.com/forms/d/e/1FAIpQLSeH7moDd1OhA5nKpBgstc7plhaBMFm3L1H99joylZSgegmQYw/viewform?usp=sf_link) | Friday, April 16th at 11:59PM EST |
 
-**TODO double check due dates**
-
 # Lab 5: Monte Carlo Localization (MCL)
 
 ## Introduction
@@ -22,8 +20,7 @@ This lab consists of a number of modules, some required and some extra credit, s
 
 The deliverables for this lab consist of five parts (two of which are optional) for a total of 10 points with 2 possible extra credit points. Parts A and E must be submitted individually, while the rest are teamwork. There will also be a report and briefing for this lab, and each teammate must submit the [team member assessment form](https://docs.google.com/forms/d/e/1FAIpQLSeH7moDd1OhA5nKpBgstc7plhaBMFm3L1H99joylZSgegmQYw/viewform?usp=sf_link).
 
-**TODO: right weights?**
-Parts A, B, and C are required and will be graded out of 10 points. This grade out of 10 points is then combined with the report and briefing grades (each also out of 10 points - see rubrics [here](https://docs.google.com/document/d/1B6l7vKJFN3CPPcMn8cKKArHUU_Bq_YUZ5KxKoP6qMk0/edit?usp=sharing) and [here](https://docs.google.com/document/d/1NmqQP7n1omI9bIshF1Y-MP70gfDkgEeoMjpWv8hjfsY/edit?usp=sharing)). The grade for the modules is weighted at 0.4, the report at 0.4, and the briefing at 0.2, for an overall lab 5 grade out of 10 points. *Note that due to the individual nature of parts A and E, overall lab grades may differ across teammates.*
+Parts A, B, and C are required and will be graded out of 10 points. This grade out of 10 points is then combined with the report and briefing grades (each also out of 10 points - see rubrics [here](https://docs.google.com/document/d/1B6l7vKJFN3CPPcMn8cKKArHUU_Bq_YUZ5KxKoP6qMk0/edit?usp=sharing) and [here](https://docs.google.com/document/d/1NmqQP7n1omI9bIshF1Y-MP70gfDkgEeoMjpWv8hjfsY/edit?usp=sharing)). The grade for the modules is weighted at 0.4, the report at 0.4, and the briefing at 0.2, for an overall lab grade out of 10 points. *Note that due to the individual nature of parts A and E, overall lab grades may differ across teammates.*
 
 -   **Part A - (Writing Assignment)** Understand the motion and sensor model.
 -   **Part B - (Programming Assignment)** Develop and test the particle filter algorithm in 2D racecar simulation environment, upload solution to gradescope for autograder evaluation.
@@ -37,8 +34,6 @@ Submit your answers **individually** to the writing assignment on gradescope, pr
 - 1 point for part (i) in question 1
 - 1 point for part (ii) in question 1
 - 1 point for question 2
-
-**TODO: make sure gradescope assignment names and point values match!**
 
 Submit your numeric answers along with your justifications to the gradescope assignment **Lab 5 Part A: Individual Submission**. You may check your numeric results by putting your answers in `/autograder/solutions_go_here.py` and uploading to the gradescope autograder **Lab 5 Part A: OPTIONAL**, but your grade will be based only on your explanations and answers submitted for the written portion. Just writing the final answer will not give total credit, even if correct. These questions will help you understand the algorithm before diving into coding.
 
