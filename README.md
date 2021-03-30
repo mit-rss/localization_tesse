@@ -77,4 +77,4 @@ Derive the form of the Bayes' Filter presented in Lecture 10. Submit as a typed 
 
 ## Lab Modules
 
-The instructions to get started with Lab 5 at available in the [instructions notebook](README.ipynb).
+The instructions to get started with Lab 5 are available in the [instructions notebook](README.ipynb).
