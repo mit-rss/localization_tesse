@@ -23,3 +23,6 @@ particle_filter_frame: "/base_link_pf"
 
 # Deterministic flag; set to true to remove all added noise
 deterministic: true
+
+# factor used to scale your lidar data from meters to pixels
+lidar_scale_to_map_scale: 1.0 # set this to 1.0 for 2D sim or real car, 5.0 for TESSE
