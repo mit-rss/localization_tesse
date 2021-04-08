@@ -44,6 +44,7 @@ class SensorModel:
         # Subscribe to the map
         self.map = None
         self.map_set = False
+        self.map_resolution = None
         rospy.Subscriber(
                 self.map_topic,
                 OccupancyGrid,
@@ -111,6 +112,7 @@ class SensorModel:
         # Convert the map to a numpy array
         self.map = np.array(map_msg.data, np.double)/100.
         self.map = np.clip(self.map, 0, 1)
+        self.map_resolution = map_msg.info.resolution
 
         # Convert the origin to a tuple
         origin_p = map_msg.info.origin.position
